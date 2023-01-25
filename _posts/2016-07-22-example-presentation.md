@@ -4,8 +4,8 @@ title: How to do this?
 excerpt: Oh now i see how it's going
 # theme: simple
 transition: convex
-tags: [How]
-category: How
+tags: [presentation]
+category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
